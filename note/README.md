@@ -1,14 +1,11 @@
 # 项目介绍
-- 个人博客：https://qcrao.com
 
-- 电子书地址：https://qcrao91.gitbook.io/go
-
-- 本项目地址：https://github.com/qcrao/Go-Questions
+- 本项目地址：https://github.com/dongfengyuli/go-tour
 
 `Go 语言`学习入门和进阶知识。以 `Go 语言`为突破口，从问题切入，掌握 Go 语言、后端相关的各种硬核知识。希望本项目能在职场表现、项目实战上助你一臂之力！
 
 # 项目目录
-详见 [wiki](https://github.com/qcrao/Go-Questions/wiki)
+详见 [wiki](https://github.com/dongfengyuli/go-tour/wiki)
 
 # 深度博客收录
 
@@ -24,8 +21,5 @@
 
 
 # 学习交流
-你可以加我的微信一起交流：raoquancheng1991。
+你可以加我的微信一起交流：18311219160。
 
-也可以关注公众号，和更多的人一起学习：
-
-![QR](https://user-images.githubusercontent.com/7698088/57526048-ebb2e280-735e-11e9-98dc-4a2cb060d0df.png)
